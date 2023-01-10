@@ -1,0 +1,9 @@
+{
+	"cSpell.words": [
+		"homomorphic"
+	],
+	"files.associations": {
+		"stdlib.h": "c",
+		"string.h": "c"
+	}
+}
